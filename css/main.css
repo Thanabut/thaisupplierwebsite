@@ -1,0 +1,16 @@
+/*
+    color
+*/
+.item-group img {
+  width: 140px;
+  height: 140px;
+}
+.item-group .item-list > div {
+  margin-bottom: 20px;
+}
+section.main-footer {
+  background: #7986CB;
+  color: #FFF;
+  min-height: 150px;
+  padding-top: 20px;
+}
